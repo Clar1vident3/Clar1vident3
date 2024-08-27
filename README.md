@@ -1,4 +1,6 @@
-## Hi there 👋
+## Little love 
+<img width="140" alt="image" src="https://github.com/user-attachments/assets/31f88f21-14e9-40c2-8d57-93f62ebd5fff">
+
 
 <!--
 **Clar1vident3/Clar1vident3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
